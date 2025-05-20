@@ -1,23 +1,22 @@
-<h1 align="center">👋 Merhaba, ben Merve | Full Stack Developer</h1>
+<h1 align="center">👋 Hi, I'm Merve | Full Stack Developer</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=React+%2F+Flutter+Geliştirici;Sade+%26+Şık+Arayüzler;Back-end+%2B+Front-end+Deneyimi" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=React+%2F+Flutter+Developer;Clean+%26+Modern+UI+Designs;Front-end+%2B+Mobile+Experience" />
 </p>
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 
-Merhaba! Ben yazılıma tutkuyla bağlı bir geliştiriciyim.  
-Frontend ve mobil geliştirme alanlarında deneyimim var.  
-Sürekli öğreniyor, gelişiyor ve üretiyorum.
+Hey there! I'm a passionate software developer with experience in both front-end and mobile development.  
+I'm constantly learning, improving, and building things.
 
-- 💼 Son projelerimde **React**, **Flutter** ve **HTML/CSS** teknolojileriyle çalıştım.  
-- 🧠 Öğrendiğim yeni konular arasında **Next.js**, **TypeScript** ve **TailwindCSS** var.
-- 🎯 Hedefim: Kullanıcı odaklı, performanslı ve ölçeklenebilir yazılımlar üretmek.
+- 💼 Recently worked with **React**, **Flutter**, and **HTML/CSS**.  
+- 🧠 Currently exploring **Next.js**, **TypeScript**, and **TailwindCSS**.
+- 🎯 My goal is to build scalable, performant, and user-friendly applications.
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Technologies I Use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,ts,tailwind,redux,git,github,vscode,figma" />
@@ -25,7 +24,7 @@ Sürekli öğreniyor, gelişiyor ve üretiyorum.
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RMerveKarahan&show_icons=true&theme=radical" height="170" />
@@ -34,14 +33,14 @@ Sürekli öğreniyor, gelişiyor ve üretiyorum.
 
 ---
 
-### 🌐 Bana Ulaş
+### 🌐 Contact Me
 
 <p align="left">
-  <a href="rmervekarahan@icloud.com"><img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:rmervekarahan@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/merve-karahan-71b91b60/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/RMerveKarahan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">💻 Üreten, paylaşan ve sürekli gelişen bir yazılımcı!</p>
+<p align="center">💻 Always building, sharing and growing as a developer!</p>
